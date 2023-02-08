@@ -1,0 +1,13 @@
+.info{
+    position: absolute;
+    left: 20%;
+    right: 20%;
+}
+#click{
+    background-color: rgb(97, 84, 241);
+    border:black solid ;
+    border-width:1px;
+}
+#click2{
+    background-color: rgb(255, 64, 0);
+}
